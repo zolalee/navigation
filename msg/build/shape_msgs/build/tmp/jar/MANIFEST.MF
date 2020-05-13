@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Export-Package: shape_msgs;version="1.12.6";uses:="geometry_msgs,org.r
+ os.internal.message"
+Bundle-SymbolicName: org.ros.rosjava_messages.shape_msgs
+Bundle-Version: 1.12.6
+Bundle-Name: shape_msgs
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218368000
+Import-Package: geometry_msgs;version="[1.12,2)",org.ros.internal.mess
+ age
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

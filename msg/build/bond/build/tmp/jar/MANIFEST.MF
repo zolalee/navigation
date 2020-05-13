@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Export-Package: bond;version="1.8.1";uses:="org.ros.internal.message,s
+ td_msgs"
+Bundle-SymbolicName: org.ros.rosjava_messages.bond
+Bundle-Version: 1.8.1
+Bundle-Name: bond
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218360000
+Import-Package: org.ros.internal.message,std_msgs;version="[0.5,1)"
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

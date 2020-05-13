@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Export-Package: actionlib;version="1.11.13";uses:="actionlib_msgs,org.
+ ros.internal.message,org.ros.message,std_msgs"
+Bundle-SymbolicName: org.ros.rosjava_messages.actionlib
+Bundle-Version: 1.11.13
+Bundle-Name: actionlib
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218386000
+Import-Package: actionlib_msgs;version="[1.12,2)",org.ros.internal.mes
+ sage,org.ros.message,std_msgs;version="[0.5,1)"
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

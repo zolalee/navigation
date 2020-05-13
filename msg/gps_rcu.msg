@@ -1,0 +1,4 @@
+float64 rcu_longtitude
+float64 rcu_latitude
+float64 rcu_altitude
+float64 rcu_bearing 

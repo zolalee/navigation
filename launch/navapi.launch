@@ -1,0 +1,11 @@
+<launch>
+    <arg name="NAV_IP" value="192.168.1.127"/>
+    <arg name="NAV_STATE_PORT" value="8089"/>
+    <arg name="NAV_GETURL" value="/gs-robot/notice/status"/>
+    <arg name="NAV_PORT" value="8080"/>
+	<arg name="HOME_MAPNAME" value="home"/>
+	<arg name="HOME_PATHNAME" value="home"/>
+	<arg name="BOOL_RECORD_PATH" value="1"/>
+
+    <node pkg="test" name="test_node" type="test_node" output="screen" args="$(arg NAV_IP) $(arg NAV_STATE_PORT) $(arg NAV_GETURL) $(arg NAV_PORT) $(arg HOME_MAPNAME) $(arg HOME_PATHNAME) $(arg BOOL_RECORD_PATH)"/>
+</launch>

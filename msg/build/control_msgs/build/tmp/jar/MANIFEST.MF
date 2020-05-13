@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Export-Package: control_msgs;version="1.4.0";uses:="actionlib_msgs,geo
+ metry_msgs,org.ros.internal.message,org.ros.message,std_msgs,trajecto
+ ry_msgs"
+Bundle-SymbolicName: org.ros.rosjava_messages.control_msgs
+Bundle-Version: 1.4.0
+Bundle-Name: control_msgs
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218374000
+Import-Package: actionlib_msgs;version="[1.12,2)",geometry_msgs;versio
+ n="[1.12,2)",org.ros.internal.message,org.ros.message,std_msgs;versio
+ n="[0.5,1)",trajectory_msgs;version="[1.12,2)"
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

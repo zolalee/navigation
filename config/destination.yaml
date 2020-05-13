@@ -1,0 +1,3 @@
+destination_goal: [{path_name: main_path, position_name: [p1,p2,p3]}]
+loop_count: 100
+origin_postion: {switch: false, map_name: map1, origin_latitude: 22.529896, origin_longtitude: 113.951621, origin_bearing: 0, origin_path: main_path}

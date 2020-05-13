@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Export-Package: roscpp_tutorials;version="0.7.1";uses:="org.ros.intern
+ al.message"
+Bundle-SymbolicName: org.ros.rosjava_messages.roscpp_tutorials
+Bundle-Version: 0.7.1
+Bundle-Name: roscpp_tutorials
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218380000
+Import-Package: org.ros.internal.message
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

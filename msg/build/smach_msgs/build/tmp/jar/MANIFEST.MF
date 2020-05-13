@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Export-Package: smach_msgs;version="2.0.1";uses:="org.ros.internal.mes
+ sage,std_msgs"
+Bundle-SymbolicName: org.ros.rosjava_messages.smach_msgs
+Bundle-Version: 2.0.1
+Bundle-Name: smach_msgs
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218369000
+Import-Package: org.ros.internal.message,std_msgs;version="[0.5,1)"
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

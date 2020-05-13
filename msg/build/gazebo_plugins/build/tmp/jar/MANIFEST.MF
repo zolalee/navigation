@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.ros.rosjava_messages.gazebo_plugins
+Bundle-Version: 2.5.17
+Bundle-Name: gazebo_plugins
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218405000
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

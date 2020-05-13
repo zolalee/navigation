@@ -1,0 +1,16 @@
+{
+    "data":[
+        {
+            "createdAt":"2016-08-11 04:11:49",
+            "fileName":"0f172cc6-0c72-4467-8ec7-bb7b68f90106.csv",
+            "id":0,
+            "length":57.290190849177378,
+            "mapId":0,
+            "mapName":"demo",
+            "name":"main_path",
+            "pointCount":5730
+        }],
+    "errorCode":"",
+    "msg":"successed",
+    "successed":true
+}

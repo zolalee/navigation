@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Export-Package: nodelet;version="1.9.14";uses:="org.ros.internal.messa
+ ge"
+Bundle-SymbolicName: org.ros.rosjava_messages.nodelet
+Bundle-Version: 1.9.14
+Bundle-Name: nodelet
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218379000
+Import-Package: org.ros.internal.message
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

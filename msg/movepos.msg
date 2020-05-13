@@ -1,0 +1,6 @@
+Header header
+
+int64 x
+int64 y
+int64 theta
+string mapname

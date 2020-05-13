@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Export-Package: nav_msgs;version="1.12.6";uses:="actionlib_msgs,geomet
+ ry_msgs,org.jboss.netty.buffer,org.ros.internal.message,org.ros.messa
+ ge,std_msgs"
+Bundle-SymbolicName: org.ros.rosjava_messages.nav_msgs
+Bundle-Version: 1.12.6
+Bundle-Name: nav_msgs
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218365000
+Import-Package: actionlib_msgs;version="[1.12,2)",geometry_msgs;versio
+ n="[1.12,2)",org.jboss.netty.buffer;version="[3.5,4)",org.ros.interna
+ l.message,org.ros.message,std_msgs;version="[0.5,1)"
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Export-Package: stereo_msgs;version="1.12.6";uses:="org.ros.internal.m
+ essage,sensor_msgs,std_msgs"
+Bundle-SymbolicName: org.ros.rosjava_messages.stereo_msgs
+Bundle-Version: 1.12.6
+Bundle-Name: stereo_msgs
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218395000
+Import-Package: org.ros.internal.message,sensor_msgs;version="[1.12,2)
+ ",std_msgs;version="[0.5,1)"
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Export-Package: theora_image_transport;version="1.9.5";uses:="org.jbos
+ s.netty.buffer,org.ros.internal.message,std_msgs"
+Bundle-SymbolicName: org.ros.rosjava_messages.theora_image_transport
+Bundle-Version: 1.9.5
+Bundle-Name: theora_image_transport
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218401000
+Import-Package: org.jboss.netty.buffer;version="[3.5,4)",org.ros.inter
+ nal.message,std_msgs;version="[0.5,1)"
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

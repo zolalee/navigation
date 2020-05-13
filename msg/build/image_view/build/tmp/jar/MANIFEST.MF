@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.ros.rosjava_messages.image_view
+Bundle-Version: 1.12.23
+Bundle-Name: image_view
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218397000
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

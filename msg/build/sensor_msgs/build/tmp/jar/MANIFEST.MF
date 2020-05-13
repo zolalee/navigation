@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Export-Package: sensor_msgs;version="1.12.6";uses:="geometry_msgs,org.
+ jboss.netty.buffer,org.ros.internal.message,org.ros.message,std_msgs"
+Bundle-SymbolicName: org.ros.rosjava_messages.sensor_msgs
+Bundle-Version: 1.12.6
+Bundle-Name: sensor_msgs
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218388000
+Import-Package: geometry_msgs;version="[1.12,2)",org.jboss.netty.buffe
+ r;version="[3.5,4)",org.ros.internal.message,org.ros.message,std_msgs
+ ;version="[0.5,1)"
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+

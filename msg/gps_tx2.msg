@@ -1,0 +1,10 @@
+float64 tx2_longtitude
+float64 tx2_latitude
+float64 tx2_altitude
+float64 gps_longtitude
+float64 gps_latitude
+float64 gps_altitude
+int8    gps_status
+float64 transformLon
+float64 transformLat
+int8    navigation_model

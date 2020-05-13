@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Export-Package: topic_tools;version="1.12.13";uses:="org.ros.internal.
+ message"
+Bundle-SymbolicName: org.ros.rosjava_messages.topic_tools
+Bundle-Version: 1.12.13
+Bundle-Name: topic_tools
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1533218384000
+Import-Package: org.ros.internal.message
+Created-By: 1.8.0_171 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+
